@@ -13,7 +13,8 @@ File Mover is a Python script that helps you organize files in a directory by mo
 4. Modify the `Parent_dir` variable in the script to specify the path to the directory you want to organize.
 
 ```python
-parent_dir = r'C:\Your\Parent\Directory\Path'
+parent_dir = r'C:\Your\Parent\Directory\Path
+```
 
 ## Requirements
 
