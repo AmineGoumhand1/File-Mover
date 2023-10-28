@@ -31,7 +31,7 @@ pip install shutil os
 ```
 ## Author
 
-- Your Name
-- GitHub: [YourGitHubUsername](https://github.com/AmineGoumhand1)
+- Goumhand Amine (read about me)
+- GitHub: [AmineGoumhand1](https://github.com/AmineGoumhand1)
 
 
