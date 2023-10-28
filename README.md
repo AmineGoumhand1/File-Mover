@@ -14,3 +14,17 @@ File Mover is a Python script that helps you organize files in a directory by mo
 
 ```python
 parent_dir = r'C:\Your\Parent\Directory\Path'
+
+## Requirements
+
+Before using this script, make sure you have the following Python libraries installed:
+
+- `shutil`: This library provides a high-level interface for file operations, such as moving files and copying them.
+
+- `os`: This library provides a way to interact with the operating system, allowing you to work with file paths and directories.
+
+To install these libraries, you can use the following command:
+
+```bash
+pip install shutil os
+
