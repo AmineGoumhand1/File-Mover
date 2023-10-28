@@ -28,4 +28,10 @@ To install these libraries, you can use the following command:
 
 ```bash
 pip install shutil os
+```
+## Author
+
+- Your Name
+- GitHub: [YourGitHubUsername](https://github.com/AmineGoumhand1)
+
 
