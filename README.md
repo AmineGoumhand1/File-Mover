@@ -1,6 +1,6 @@
-# File Mover
+# Files Organizer 
 
-File Mover is a Python script that helps you organize files in a directory by moving them to subdirectories based on their file extensions. This script creates subdirectories for each unique file extension found in the parent directory and moves the corresponding files into these subdirectories.
+Files Organizer is a Python script that helps you organize files in a directory by moving them to subdirectories based on their file extensions. This script creates subdirectories for each unique file extension found in the parent directory and moves the corresponding files into these subdirectories.
 
 ## How to Use
 
